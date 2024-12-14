@@ -21,6 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/f10b8bd5-e343-415e-b1c8-67877a3f28f1)
 ![image](https://github.com/user-attachments/assets/20334f9d-54be-453a-8e8c-53ad5878e0bc)
 ![image](https://github.com/user-attachments/assets/7b038349-6706-4842-833a-14dfc806d092)
+![image](https://github.com/user-attachments/assets/20187ad8-a689-4cb4-b383-a5a76343e685)
+
 
 <h2>Installation Steps</h2>
 
@@ -45,5 +47,13 @@ Turning off firewall, so I can ping from a different virtual machine.
 </p>
 <p>
 Getting DNS Server Private IP from host VM computer.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OOFK6ww.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Adding Jane into active directory as an admin. Also giving her read/write privelages.
 </p>
 <br />
