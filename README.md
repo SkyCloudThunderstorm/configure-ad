@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/8Z9nLs8.jpeg" alt="osTicket logo"/>
 </p>
 
 <h1>Microsoft Azure - Configure Active Directory</h1>
